@@ -1,4 +1,4 @@
-# GetGrass Auto Farmer
+# GetGrass Auto Farmer with auto proxy for lastepoch
 GetGrass.io Auto Farmer | Automate Farming Grass use Python and AutoProxies.
 ## Desktop mode is still in Development. Please use Extension mode!
 ## Tools and components required
