@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-# @Time     :2023/12/26 17:00
-# @Author   :ym
+# @Time     :2025/3/3 17:00
+# @Author   :senjataik
 # @File     :main.py
 # @Software :PyCharm
 import asyncio
