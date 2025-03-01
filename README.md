@@ -39,6 +39,8 @@ pip install -r requirements.txt
 ```bash
 pip3 install -r requirements.txt
 ```
+>Then open file user_id.txt insert your user_id grass
+
 - Windows and Termux:
 ```bash
 python main.py
@@ -47,7 +49,7 @@ python main.py
 ```bash
 python3 main.py
 ```
->Then insert your grass acount user_id.txt
+
 # Notes
 - Run this bot, use my referrer code if you don't have one.
 - You can just run this bot at your own risk, I'm not responsible for any loss or damage caused by this bot.
