@@ -35,6 +35,10 @@ cd getgrasslast
 ```bash
 pip install -r requirements.txt
 ```
+- Kalau error kalian bisa sesuaikan dengan komponen yang dibutuhkan, Dengan perintah dibawah ini :
+```bash
+pip install axios #misalnya
+```
 - Unix:
 ```bash
 pip3 install -r requirements.txt
@@ -44,6 +48,12 @@ pip3 install -r requirements.txt
 - Windows and Termux:
 ```bash
 python main.py
+```
+- Use No Proxy
+
+```bash
+python no_proxy.py
+
 ```
 - Unix:
 ```bash
